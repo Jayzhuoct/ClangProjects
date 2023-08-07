@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1514140574 source:g:\栈的实现及应用\zhan\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1618398495 source:c:\users\liozhu\desktop\zhan\clear.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1618397913 c:\users\liozhu\desktop\zhan\stack.h
+
+1618398495 source:c:\users\liozhu\desktop\zhan\destroy.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1618398494 source:c:\users\liozhu\desktop\zhan\knapsack.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1618398495 source:c:\users\liozhu\desktop\zhan\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1618398495 source:c:\users\liozhu\desktop\zhan\pop.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1618398495 source:c:\users\liozhu\desktop\zhan\stacklength.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1618398495 source:c:\users\liozhu\desktop\zhan\stacktraverse.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+

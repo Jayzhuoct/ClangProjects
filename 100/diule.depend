@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606726934 source:e:\c_workspace\diule\main.c
+	<stdio.h>
+	<stdlib.h>
+

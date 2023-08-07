@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1624802315 source:e:\课程设计\新建文件夹\新建文件夹\集合运算\clear.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624802315 e:\课程设计\新建文件夹\新建文件夹\集合运算\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1624802315 source:e:\课程设计\新建文件夹\新建文件夹\集合运算\link.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624802315 source:e:\课程设计\新建文件夹\新建文件夹\集合运算\show.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624802315 source:d:\桌面\新建文件夹\新建文件夹\集合运算\clear.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624803904 d:\桌面\新建文件夹\新建文件夹\集合运算\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1624802315 source:d:\桌面\新建文件夹\新建文件夹\集合运算\link.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624802315 source:d:\桌面\新建文件夹\新建文件夹\集合运算\show.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624802315 source:d:\桌面\课程设计\集合运算\clear.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624867036 d:\桌面\课程设计\集合运算\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1624803904 source:d:\桌面\课程设计\集合运算\main.c
+
+1624802315 source:d:\桌面\课程设计\集合运算\show.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624870326 source:d:\桌面\课程设计\集合运算\link.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

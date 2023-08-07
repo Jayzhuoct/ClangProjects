@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1618399046 source:g:\链栈\newlnode\initstack.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1618400216 g:\链栈\newlnode\lnode.h
+
+1618401208 source:g:\链栈\newlnode\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1618399046 source:g:\链栈\newlnode\stackempty.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1618399084 source:g:\链栈\newlnode\pop.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1618401814 source:g:\链栈\newlnode\multibaseoutout.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1618400182 source:g:\链栈\newlnode\stacktraverse.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1618401806 source:g:\链栈\newlnode\push.c
+
+1618399046 source:h:\c语言\链栈\newlnode\initstack.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1619003792 h:\c语言\链栈\newlnode\lnode.h
+
+1619001988 source:h:\c语言\链栈\newlnode\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1619003772 source:h:\c语言\链栈\newlnode\multibaseoutout.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1618399084 source:h:\c语言\链栈\newlnode\pop.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1619003824 source:h:\c语言\链栈\newlnode\push.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1618399046 source:h:\c语言\链栈\newlnode\stackempty.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1618400182 source:h:\c语言\链栈\newlnode\stacktraverse.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1621422740 source:d:\桌面\数据结构\链栈\newlnode\initstack.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1621422740 d:\桌面\数据结构\链栈\newlnode\lnode.h
+
+1621422831 source:d:\桌面\数据结构\链栈\newlnode\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1619004070 source:d:\桌面\数据结构\链栈\newlnode\multibaseoutout.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1621422740 source:d:\桌面\数据结构\链栈\newlnode\pop.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1621422740 source:d:\桌面\数据结构\链栈\newlnode\push.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1621422740 source:d:\桌面\数据结构\链栈\newlnode\stackempty.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+
+1621422740 source:d:\桌面\数据结构\链栈\newlnode\stacktraverse.c
+	<stdio.h>
+	<stdlib.h>
+	"LNode.h"
+

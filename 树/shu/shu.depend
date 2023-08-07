@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1622721716 source:d:\×ÀÃæ\Ê÷\shu\creatbitree.c
+	"List.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1622721716 d:\×ÀÃæ\Ê÷\shu\list.h
+
+1622721716 source:d:\×ÀÃæ\Ê÷\shu\depth.c
+	"List.h"
+	<stdio.h>
+	<stdlib.h>
+
+1622721716 source:d:\×ÀÃæ\Ê÷\shu\emptybitree.c
+	"List.h"
+	<stdio.h>
+	<stdlib.h>
+
+1622721716 source:d:\×ÀÃæ\Ê÷\shu\gettreenode.c
+	"List.h"
+	<stdio.h>
+	<stdlib.h>
+
+1622721716 source:d:\×ÀÃæ\Ê÷\shu\inittree.c
+	"List.h"
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+
+1622721716 source:d:\×ÀÃæ\Ê÷\shu\inordertraverse.c
+	"List.h"
+	<stdio.h>
+	<stdlib.h>
+
+1622721716 source:d:\×ÀÃæ\Ê÷\shu\postordertraverse.c
+	"List.h"
+	<stdio.h>
+	<stdlib.h>
+
+1622721716 source:d:\×ÀÃæ\Ê÷\shu\preordertraserve.c
+	"List.h"
+	<stdio.h>
+	<stdlib.h>
+
+1622721819 source:d:\×ÀÃæ\Ê÷\shu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+

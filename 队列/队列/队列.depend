@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1621432902 source:d:\桌面\队列\队列\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cir_queue.h"
+
+1621427548 d:\桌面\队列\队列\cir_queue.h
+

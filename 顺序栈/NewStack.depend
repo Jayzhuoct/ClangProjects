@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1617795062 source:g:\栈\newstack\initstack.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1617793810 source:g:\栈\newstack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1617795062 g:\栈\newstack\sqstack.h
+
+1617794856 source:g:\栈\newstack\incrementstacksize.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1617794856 source:h:\c语言\栈\newstack\incrementstacksize.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1618397740 h:\c语言\栈\newstack\sqstack.h
+
+1617795062 source:h:\c语言\栈\newstack\initstack.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1617797204 source:h:\c语言\栈\newstack\clearstack.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1617797204 source:h:\c语言\栈\newstack\destroystack.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1618396590 source:h:\c语言\栈\newstack\gettop.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1617797204 source:h:\c语言\栈\newstack\pop.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1617797204 source:h:\c语言\栈\newstack\push.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1618397286 source:h:\c语言\栈\newstack\stackempty.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1618397286 source:h:\c语言\栈\newstack\stacklength.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1617797204 source:h:\c语言\栈\newstack\stacktraverse.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1618397176 source:h:\c语言\栈\newstack\knapsack.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1618397628 source:h:\c语言\栈\newstack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1617797204 source:d:\桌面\数据结构\顺序栈\clearstack.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1621424501 d:\桌面\数据结构\顺序栈\sqstack.h
+
+1617797204 source:d:\桌面\数据结构\顺序栈\destroystack.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1618396590 source:d:\桌面\数据结构\顺序栈\gettop.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1621424501 source:d:\桌面\数据结构\顺序栈\incrementstacksize.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1617795062 source:d:\桌面\数据结构\顺序栈\initstack.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1618397176 source:d:\桌面\数据结构\顺序栈\knapsack.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1621424501 source:d:\桌面\数据结构\顺序栈\pop.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1617797204 source:d:\桌面\数据结构\顺序栈\push.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1621424501 source:d:\桌面\数据结构\顺序栈\stackempty.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1621424501 source:d:\桌面\数据结构\顺序栈\stacklength.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1617797204 source:d:\桌面\数据结构\顺序栈\stacktraverse.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1621423935 source:d:\桌面\数据结构\顺序栈\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+

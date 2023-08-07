@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1624802738 source:e:\课程设计\新建文件夹\新建文件夹\迷宫问题\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624803026 e:\课程设计\新建文件夹\新建文件夹\迷宫问题\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1624802738 source:e:\课程设计\新建文件夹\新建文件夹\迷宫问题\maze.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624802738 source:e:\课程设计\新建文件夹\新建文件夹\迷宫问题\print.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624802738 source:e:\课程设计\新建文件夹\新建文件夹\迷宫问题\sqstack.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624802738 source:e:\课程设计\新建文件夹\新建文件夹\迷宫问题\sum.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624803026 source:e:\课程设计\新建文件夹\新建文件夹\迷宫问题\t.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624803026 source:e:\课程设计\新建文件夹\新建文件夹\迷宫问题\move.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624802738 source:d:\桌面\新建文件夹\新建文件夹\迷宫问题\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624803026 d:\桌面\新建文件夹\新建文件夹\迷宫问题\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1624802738 source:d:\桌面\新建文件夹\新建文件夹\迷宫问题\maze.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624803026 source:d:\桌面\新建文件夹\新建文件夹\迷宫问题\move.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624803052 source:d:\桌面\新建文件夹\新建文件夹\迷宫问题\path.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624802738 source:d:\桌面\新建文件夹\新建文件夹\迷宫问题\print.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624802738 source:d:\桌面\新建文件夹\新建文件夹\迷宫问题\sqstack.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624802738 source:d:\桌面\新建文件夹\新建文件夹\迷宫问题\sum.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624803026 source:d:\桌面\新建文件夹\新建文件夹\迷宫问题\t.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624802738 source:d:\桌面\课程设计\迷宫问题\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624865575 d:\桌面\课程设计\迷宫问题\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1624802738 source:d:\桌面\课程设计\迷宫问题\maze.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624803052 source:d:\桌面\课程设计\迷宫问题\path.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624802738 source:d:\桌面\课程设计\迷宫问题\print.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624802738 source:d:\桌面\课程设计\迷宫问题\sqstack.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624802738 source:d:\桌面\课程设计\迷宫问题\sum.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624803026 source:d:\桌面\课程设计\迷宫问题\t.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1624872093 source:d:\桌面\课程设计\迷宫问题\move.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

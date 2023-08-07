@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1617192186 source:g:\Öì¿¡½Ü20204071102\xxb\getelem_sq.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"SqList.h"
+
+1617191958 g:\Öì¿¡½Ü20204071102\xxb\sqlist.h
+
+1617192186 source:c:\users\liozhu\desktop\Öì¿¡½Ü20204071102\xxb\getelem_sq.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"SqList.h"
+
+1617199669 c:\users\liozhu\desktop\Öì¿¡½Ü20204071102\xxb\sqlist.h
+
+1617192186 source:c:\users\liozhu\desktop\Öì¿¡½Ü20204071102\xxb\listempty_sq.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"SqList.h"
+
+1617192186 source:c:\users\liozhu\desktop\Öì¿¡½Ü20204071102\xxb\nextelem_sq.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"SqList.h"
+
+1617192186 source:c:\users\liozhu\desktop\Öì¿¡½Ü20204071102\xxb\printlist_sq.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"SqList.h"
+
+1617196512 source:c:\users\liozhu\desktop\Öì¿¡½Ü20204071102\xxb\priorelem_sq.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"SqList.h"
+
+1617196533 source:c:\users\liozhu\desktop\Öì¿¡½Ü20204071102\xxb\clearlist_sq.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"SqList.h"
+
+1617196545 source:c:\users\liozhu\desktop\Öì¿¡½Ü20204071102\xxb\distorylist_sq.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"SqList.h"
+
+1617196582 source:c:\users\liozhu\desktop\Öì¿¡½Ü20204071102\xxb\deletelist_sq.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"SqList.h"
+
+1617196703 source:c:\users\liozhu\desktop\Öì¿¡½Ü20204071102\xxb\initlist_sq.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"SqList.h"
+
+1617197148 source:c:\users\liozhu\desktop\Öì¿¡½Ü20204071102\xxb\listinsert_sq.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"SqList.h"
+
+1617197337 source:c:\users\liozhu\desktop\Öì¿¡½Ü20204071102\xxb\listlength_sq.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"SqList.h"
+

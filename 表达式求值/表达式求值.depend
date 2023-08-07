@@ -1,0 +1,200 @@
+# depslib dependency file v1.0
+1624801865 source:e:\课程设计\新建文件夹\新建文件夹\表达式求值\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624801865 e:\课程设计\新建文件夹\新建文件夹\表达式求值\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1624801865 source:e:\课程设计\新建文件夹\新建文件夹\表达式求值\push.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624801942 source:d:\桌面\新建文件夹\新建文件夹\表达式求值\calculate.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624803811 d:\桌面\新建文件夹\新建文件夹\表达式求值\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1624801942 source:d:\桌面\新建文件夹\新建文件夹\表达式求值\gettop.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624801942 source:d:\桌面\新建文件夹\新建文件夹\表达式求值\isempty.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624801942 source:d:\桌面\新建文件夹\新建文件夹\表达式求值\isfull.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624801865 source:d:\桌面\新建文件夹\新建文件夹\表达式求值\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624801942 source:d:\桌面\新建文件夹\新建文件夹\表达式求值\pop.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624801865 source:d:\桌面\新建文件夹\新建文件夹\表达式求值\push.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624801942 source:d:\桌面\新建文件夹\新建文件夹\表达式求值\transfer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624801942 source:d:\桌面\课程设计\表达式求值\calculate.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624803811 d:\桌面\课程设计\表达式求值\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1624803811 source:d:\桌面\课程设计\表达式求值\gettop.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624801942 source:d:\桌面\课程设计\表达式求值\isempty.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624803811 source:d:\桌面\课程设计\表达式求值\isfull.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624801865 source:d:\桌面\课程设计\表达式求值\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624803811 source:d:\桌面\课程设计\表达式求值\pop.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624803811 source:d:\桌面\课程设计\表达式求值\push.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624801942 source:d:\桌面\课程设计\表达式求值\transfer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624801942 source:d:\桌面\数据结构课程设计\表达式求值\calculate.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624803811 d:\桌面\数据结构课程设计\表达式求值\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1624803811 source:d:\桌面\数据结构课程设计\表达式求值\gettop.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624801942 source:d:\桌面\数据结构课程设计\表达式求值\isempty.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624803811 source:d:\桌面\数据结构课程设计\表达式求值\isfull.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624803811 source:d:\桌面\数据结构课程设计\表达式求值\pop.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624803811 source:d:\桌面\数据结构课程设计\表达式求值\push.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1624801942 source:d:\桌面\数据结构课程设计\表达式求值\transfer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"header.h"
+

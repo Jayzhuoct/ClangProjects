@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1622724186 source:d:\桌面\树\tree\creatlqueue.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
+1622724077 d:\桌面\树\tree\list.h
+
+1622724186 source:d:\桌面\树\tree\delqeue.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
+1622724186 source:d:\桌面\树\tree\destorylqeue.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
+1622724186 source:d:\桌面\树\tree\emptylqueue.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
+1622724186 source:d:\桌面\树\tree\enlqeue.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
+1622724186 source:d:\桌面\树\tree\getlqueue.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
+1622724186 source:d:\桌面\树\tree\initlqeue.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
+1622724186 source:d:\桌面\树\tree\traverselqeue.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
+1622724233 source:d:\桌面\树\tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+

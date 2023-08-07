@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1619005910 source:h:\c”Ô—‘\¡¥±Ì\newlnodelist\initlist.c
+	<stdio.h>
+	<stdlib.h>
+	"Lnode.h"
+
+1619005910 h:\c”Ô—‘\¡¥±Ì\newlnodelist\lnode.h
+
+1619005910 source:h:\c”Ô—‘\¡¥±Ì\newlnodelist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lnode.h"
+
+1619005432 source:h:\c”Ô—‘\¡¥±Ì\newlnodelist\destroylist.c
+	<stdio.h>
+	<stdlib.h>
+	"Lnode.h"
+

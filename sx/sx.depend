@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616755127 source:c:\users\liozhu\desktop\数据结构实验\实验1\sx\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+

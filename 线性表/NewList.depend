@@ -1,0 +1,299 @@
+# depslib dependency file v1.0
+1616584784 source:g:\大一下\new_c_learning\newlist\newlist\destroylist.c
+	"SqList.h"
+	"malloc.h"
+
+1616585034 g:\大一下\new_c_learning\newlist\newlist\sqlist.h
+
+1616586484 source:g:\大一下\new_c_learning\newlist\newlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+	"malloc.h"
+
+1616587482 source:g:\大一下\new_c_learning\newlist\newlist\initlist.c
+	"SqList.h"
+	"malloc.h"
+
+1617114755 source:c:\users\12545\documents\c语言\线性表\newlist\destroylist.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+	"malloc.h"
+
+1616686521 c:\users\12545\documents\c语言\线性表\newlist\sqlist.h
+
+1617115920 source:c:\users\12545\documents\c语言\线性表\newlist\initlist.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+	"malloc.h"
+
+1617115604 source:c:\users\12545\documents\c语言\线性表\newlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+	"malloc.h"
+
+1617114755 source:c:\users\12545\documents\c语言\线性表\newlist\listinsert.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+	"malloc.h"
+
+1617115986 source:c:\users\12545\documents\c语言\线性表\newlist\print.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+	"malloc.h"
+
+1617114755 source:c:\users\12545\documents\c语言\线性表\newlist\input.c
+
+1617114755 source:c:\users\12545\documents\c语言\线性表\newlist\clearlist.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+	"malloc.h"
+
+1617114755 source:c:\users\12545\documents\c语言\线性表\newlist\listempty.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+	"malloc.h"
+
+1617114802 source:c:\users\12545\documents\c语言\线性表\newlist\listdelete.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+	"malloc.h"
+
+1617115456 source:c:\users\12545\documents\c语言\线性表\newlist\listcompare.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+	"malloc.h"
+
+1617115920 source:c:\users\12545\documents\c语言\线性表\newlist\listlength.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+	"malloc.h"
+
+1617192054 source:h:\c语言\大一下\线性表\newlist\clearlist.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192056 h:\c语言\大一下\线性表\newlist\sqlist.h
+
+1617192054 source:h:\c语言\大一下\线性表\newlist\destroylist.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192054 source:h:\c语言\大一下\线性表\newlist\initlist.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192056 source:h:\c语言\大一下\线性表\newlist\input.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192056 source:h:\c语言\大一下\线性表\newlist\listcompare.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192054 source:h:\c语言\大一下\线性表\newlist\listdelete.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192056 source:h:\c语言\大一下\线性表\newlist\listempty.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192054 source:h:\c语言\大一下\线性表\newlist\listinsert.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192056 source:h:\c语言\大一下\线性表\newlist\listlength.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617191586 source:h:\c语言\大一下\线性表\newlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192054 source:h:\c语言\大一下\线性表\newlist\print.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:h:\c语言\大一下\线性表\nnnnnnn\clearlist.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192056 h:\c语言\大一下\线性表\nnnnnnn\sqlist.h
+
+1617192230 source:h:\c语言\大一下\线性表\nnnnnnn\destroylist.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:h:\c语言\大一下\线性表\nnnnnnn\initlist.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:h:\c语言\大一下\线性表\nnnnnnn\input.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:h:\c语言\大一下\线性表\nnnnnnn\listcompare.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:h:\c语言\大一下\线性表\nnnnnnn\listdelete.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:h:\c语言\大一下\线性表\nnnnnnn\listempty.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:h:\c语言\大一下\线性表\nnnnnnn\listinsert.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:h:\c语言\大一下\线性表\nnnnnnn\listlength.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:h:\c语言\大一下\线性表\nnnnnnn\print.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192296 source:h:\c语言\大一下\线性表\nnnnnnn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:e:\c语言\大一下\线性表\finallist\clearlist.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192056 e:\c语言\大一下\线性表\finallist\sqlist.h
+
+1617192230 source:e:\c语言\大一下\线性表\finallist\destroylist.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:e:\c语言\大一下\线性表\finallist\initlist.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:e:\c语言\大一下\线性表\finallist\listcompare.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:e:\c语言\大一下\线性表\finallist\listdelete.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:e:\c语言\大一下\线性表\finallist\listempty.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:e:\c语言\大一下\线性表\finallist\listinsert.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:e:\c语言\大一下\线性表\finallist\listlength.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192296 source:e:\c语言\大一下\线性表\finallist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:e:\c语言\大一下\线性表\finallist\print.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:d:\桌面\数据结构\线性表\clearlist.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192056 d:\桌面\数据结构\线性表\sqlist.h
+
+1617192230 source:d:\桌面\数据结构\线性表\destroylist.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:d:\桌面\数据结构\线性表\initlist.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:d:\桌面\数据结构\线性表\listcompare.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:d:\桌面\数据结构\线性表\listdelete.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:d:\桌面\数据结构\线性表\listempty.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:d:\桌面\数据结构\线性表\listinsert.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:d:\桌面\数据结构\线性表\listlength.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192296 source:d:\桌面\数据结构\线性表\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+
+1617192230 source:d:\桌面\数据结构\线性表\print.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.h"
+

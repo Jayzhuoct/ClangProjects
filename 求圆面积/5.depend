@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603095841 source:e:\dexter\5\main.c
+	<stdio.h>
+	<stdlib.h>
+
